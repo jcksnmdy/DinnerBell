@@ -13,6 +13,6 @@ Due to the volume of files in this project, we decided to write comments in the 
 
 ## Colort Scheme
 
-primary color - #41BC95
-secondary color - 43BC91
-background color - FCFFFC
+primary color - #00D69C
+secondary color - #2F2F31
+background color - #009E77
